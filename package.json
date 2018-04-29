@@ -1,0 +1,16 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Resource monitor server",
+  "main": "index.js",
+  "author": "cb",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "command-line-usage": "^5.0.4",
+    "node-polling": "^0.0.4"
+  },
+  "scripts": {
+    "start": "node ."
+  }
+}
